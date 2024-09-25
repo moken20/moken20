@@ -17,7 +17,7 @@ I am currently researching Quantum Machine Learning in the Master's program in A
 #### ML/QML/DL
 
 ![Pytorch](https://img.shields.io/badge/pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![Huggingface](https://img.shields.io/badge/huggingface-%23F7931E.svg?style=for-the-badge&logo=huggingface&logoColor=white)&nbsp;
+![Transformers](https://img.shields.io/badge/transformers-%23F7931E.svg?style=for-the-badge&logo=huggingface&logoColor=white)&nbsp;
 ![Qiskit](https://img.shields.io/badge/qiskit-005571?style=for-the-badge&logo=qiskit)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
