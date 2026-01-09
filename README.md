@@ -1,11 +1,6 @@
 ## Hi there 👋
 I am currently researching Quantum Machine Learning in the Master's program in Applied Physics at Keio University. Apart from that, I have been working as a ML/NLP engineer in an internship program for a year.
 
-**My Research Interest**:
-- Quantum Neural Network
-- Geometric Machine Learning
-- Adversarial Machine Learning
-
 ## Skills:
 
 #### Languages:
